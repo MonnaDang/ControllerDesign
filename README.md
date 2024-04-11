@@ -1,4 +1,4 @@
-Ytb: https://www.youtube.com/watch?v=o9yR35egsLY
+
 
 In this presentation, we have explored various techniques for selecting parameters for a PI (Proportional-Integral) controller, including the 
 renowned Ziegler-Nichols tuning method. 
